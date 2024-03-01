@@ -20,7 +20,10 @@
     "@emotion/styled": "^11.11.0",
     "framer-motion": "^11.0.8",
     "gatsby": "^5.13.3",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "gatsby-plugin-image": "^0.7.2",
+    "gatsby-plugin-sharp": "^2.14.4",
+    "gatsby-source-filesystem": "^2.11.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
